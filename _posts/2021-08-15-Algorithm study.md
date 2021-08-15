@@ -1,12 +1,8 @@
-# Algorithm study
+---
+layout: single
+title:  "Algorithm study(1)"
+---
 
-------
-
-[TOC]
-
-
-
-------
 
 ## greedy algorithm
 
