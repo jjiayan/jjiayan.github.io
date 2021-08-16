@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "jiayan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "../images/2021-08-16-wo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "前面一定有路"
   location         : "SEOUL, KOREA"
   email            :
