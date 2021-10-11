@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm study(1) - greedy, 완전 탐색, DFS/BFS, "
+title:  "Algorithm study(1) - greedy, 완전 탐색, DFS/BFS, 정렬"
 ---
 
 
